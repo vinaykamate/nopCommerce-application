@@ -1,0 +1,54 @@
+2023-02-26 23:03:41,318 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-26 23:03:41,319 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-26 23:03:48,078 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-26 23:03:53,385 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-26 23:04:03,307 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-26 23:22:08,591 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-26 23:22:08,622 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-26 23:22:20,188 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-26 23:22:58,094 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-26 23:23:16,597 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-26 23:49:11,648 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-26 23:49:11,664 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-26 23:49:14,047 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-26 23:49:16,641 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-26 23:49:26,690 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-26 23:57:40,065 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-26 23:57:40,065 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-26 23:57:46,206 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-26 23:57:49,147 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-26 23:58:04,620 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-26 23:58:59,066 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-26 23:58:59,066 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-26 23:59:03,333 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-26 23:59:05,636 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-26 23:59:13,647 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 00:01:28,736 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 00:01:28,736 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 00:01:32,190 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-27 00:01:34,610 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 00:01:44,455 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 00:02:06,854 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 00:02:06,854 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 00:02:10,976 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-27 00:02:14,641 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 00:02:21,033 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 00:06:06,136 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 00:06:06,169 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 00:06:09,321 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-27 00:06:11,844 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 00:06:19,520 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 00:07:40,283 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 00:07:40,283 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 00:07:43,511 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-27 00:07:45,850 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 00:07:51,870 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 11:45:42,258 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 11:45:42,326 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 11:45:54,488 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 11:46:09,418 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 11:46:49,114 :INFO :utilities.CustomLogger :test_HomePageTitle
+2023-02-27 11:46:49,129 :INFO :utilities.CustomLogger :Verify Home Page Title
+2023-02-27 11:46:52,563 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
+2023-02-27 11:46:55,103 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 11:47:09,294 :INFO :utilities.CustomLogger :Login Test is Passed
