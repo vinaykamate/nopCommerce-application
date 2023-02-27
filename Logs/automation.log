@@ -52,3 +52,79 @@
 2023-02-27 11:46:52,563 :INFO :utilities.CustomLogger :Home Page Title Test is Passed
 2023-02-27 11:46:55,103 :INFO :utilities.CustomLogger :Verify Login Test
 2023-02-27 11:47:09,294 :INFO :utilities.CustomLogger :Login Test is Passed
+2023-02-27 14:17:45,467 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:18:23,266 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:18:25,563 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 14:20:43,953 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:20:59,718 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:21:09,858 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:22:31,798 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:22:44,800 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:22:52,272 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:22:58,166 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:23:06,351 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:23:06,351 :INFO :utilities.CustomLogger :*****Login DDT test failed*****
+2023-02-27 14:24:54,491 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:25:07,418 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:25:15,639 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:25:21,517 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:25:28,123 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:25:28,123 :INFO :utilities.CustomLogger :*****Login DDT test failed*****
+2023-02-27 14:28:32,689 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:28:53,287 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:29:01,906 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:29:07,802 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:29:16,242 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:29:16,242 :INFO :utilities.CustomLogger :*****Login DDT test failed*****
+2023-02-27 14:30:24,992 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:30:38,440 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:30:46,083 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:30:52,092 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:30:59,789 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:30:59,790 :INFO :utilities.CustomLogger :*****Login DDT test failed*****
+2023-02-27 14:32:49,389 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:33:03,617 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:33:11,666 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:33:17,530 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:33:23,798 :INFO :utilities.CustomLogger :******Failed*******
+2023-02-27 14:33:23,798 :INFO :utilities.CustomLogger :*****Login DDT test failed*****
+2023-02-27 14:34:38,469 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:34:53,106 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:35:00,667 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:35:06,578 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:35:12,536 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:35:12,537 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 14:35:14,376 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
+2023-02-27 14:35:14,376 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
+2023-02-27 14:42:47,187 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:43:07,491 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:43:15,719 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:43:21,746 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:43:28,458 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:43:28,458 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 14:43:30,781 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
+2023-02-27 14:43:30,781 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
+2023-02-27 14:45:48,415 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:46:02,660 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:46:13,416 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:46:19,356 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:46:25,583 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:46:25,583 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 14:46:30,821 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
+2023-02-27 14:46:30,821 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
+2023-02-27 14:51:24,286 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 14:51:44,035 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:51:51,823 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:51:58,876 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:52:04,739 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 14:52:04,739 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 14:52:05,435 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
+2023-02-27 14:52:05,435 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
+2023-02-27 15:10:26,766 :INFO :utilities.CustomLogger :Verify Login Test
+2023-02-27 15:11:09,071 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 15:11:18,786 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 15:11:25,044 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 15:11:31,401 :INFO :utilities.CustomLogger :******Passed*******
+2023-02-27 15:11:31,401 :INFO :utilities.CustomLogger :*****Login DDT test passed****
+2023-02-27 15:11:40,798 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
+2023-02-27 15:11:40,798 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
