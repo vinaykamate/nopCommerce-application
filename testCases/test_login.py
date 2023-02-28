@@ -52,7 +52,7 @@ class Test_002_DDT_Login:
                 elif self.exp_result == "Fail":
                     self.logger.info("******Passed*******")
                     lst_status.append("Pass")
-
+                    
         if "Fail" not in lst_status:
             self.logger.info("*****Login DDT test passed****")
             self.driver.close()

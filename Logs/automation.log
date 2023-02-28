@@ -128,3 +128,31 @@
 2023-02-27 15:11:31,401 :INFO :utilities.CustomLogger :*****Login DDT test passed****
 2023-02-27 15:11:40,798 :INFO :utilities.CustomLogger :*****Enf of Login DDT Test*****
 2023-02-27 15:11:40,798 :INFO :utilities.CustomLogger :*****Completed TC_LoginDDT_002*****
+2023-02-28 19:47:31,273 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 19:48:00,362 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 19:48:00,362 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 19:50:45,360 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 19:50:55,281 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 19:50:55,281 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 19:57:01,372 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 19:57:20,879 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 19:57:20,879 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 19:57:48,283 :INFO :utilities.CustomLogger :*********** Saving Customer Info *****************
+2023-02-28 19:57:48,400 :INFO :utilities.CustomLogger :******** Add Customer Test Passed ***********
+2023-02-28 19:57:49,653 :INFO :utilities.CustomLogger :*********** Ending Test_003_AddCustomer Test ***********
+2023-02-28 19:59:52,211 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 20:00:03,978 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 20:00:03,979 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 20:00:21,236 :INFO :utilities.CustomLogger :*********** Saving Customer Info *****************
+2023-02-28 20:03:17,245 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 20:03:29,022 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 20:03:29,023 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 20:04:12,524 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 20:04:23,641 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 20:04:23,642 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 20:05:54,538 :INFO :utilities.CustomLogger :********* Test_003_AddCustomer *********
+2023-02-28 20:06:05,813 :INFO :utilities.CustomLogger :*********** Login Successful **********
+2023-02-28 20:06:05,813 :INFO :utilities.CustomLogger :********** starting Add Customer Test **********
+2023-02-28 20:06:21,565 :INFO :utilities.CustomLogger :*********** Saving Customer Info *****************
+2023-02-28 20:06:21,766 :INFO :utilities.CustomLogger :******** Add Customer Test Passed ***********
+2023-02-28 20:06:22,715 :INFO :utilities.CustomLogger :*********** Ending Test_003_AddCustomer Test ***********
