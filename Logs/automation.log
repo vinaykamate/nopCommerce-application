@@ -156,3 +156,32 @@
 2023-02-28 20:06:21,565 :INFO :utilities.CustomLogger :*********** Saving Customer Info *****************
 2023-02-28 20:06:21,766 :INFO :utilities.CustomLogger :******** Add Customer Test Passed ***********
 2023-02-28 20:06:22,715 :INFO :utilities.CustomLogger :*********** Ending Test_003_AddCustomer Test ***********
+2023-03-01 12:45:03,034 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:45:16,460 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:45:16,461 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:46:32,845 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:46:39,926 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:46:39,926 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:49:42,917 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:49:59,966 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:49:59,967 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:53:23,588 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:53:36,266 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:53:36,267 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:54:52,968 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:55:00,474 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:55:00,474 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:59:25,937 :INFO :utilities.CustomLogger :********* Test_003_SearchCustomerByEmail ************
+2023-03-01 12:59:33,770 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 12:59:33,771 :INFO :utilities.CustomLogger :********* Starting Search Customer By Email ***********
+2023-03-01 12:59:45,039 :INFO :utilities.CustomLogger :*********** Test_003_SearchCustomerByEmail if Finished ************
+2023-03-01 13:08:12,834 :INFO :utilities.CustomLogger :********* Test_004_SearchCustomerByEmail ************
+2023-03-01 13:08:23,960 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 13:08:23,960 :INFO :utilities.CustomLogger :********* Starting Search Customer By Name ***********
+2023-03-01 13:09:33,400 :INFO :utilities.CustomLogger :********* Test_004_SearchCustomerByEmail ************
+2023-03-01 13:09:42,635 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 13:09:42,635 :INFO :utilities.CustomLogger :********* Starting Search Customer By Name ***********
+2023-03-01 13:11:06,372 :INFO :utilities.CustomLogger :********* Test_004_SearchCustomerByEmail ************
+2023-03-01 13:11:14,316 :INFO :utilities.CustomLogger :********* Login Successful ************
+2023-03-01 13:11:14,317 :INFO :utilities.CustomLogger :********* Starting Search Customer By Name ***********
+2023-03-01 13:11:25,261 :INFO :utilities.CustomLogger :*********** Test_003_SearchCustomerByName if Finished ************

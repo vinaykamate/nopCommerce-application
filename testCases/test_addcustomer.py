@@ -9,14 +9,14 @@ from utilities.readProperties import ReadConfig
 from utilities.CustomLogger import LogGeneration
 
 
-class Test_003_AddCustomer:
+class Test_002_AddCustomer:
     baseURL = ReadConfig.getapplicationURL()
     username = ReadConfig.getUsername()
     password = ReadConfig.getPassword()
     logger = LogGeneration.loggen()
 
     def test_addcustomer(self, setup):
-        self.logger.info("********* Test_003_AddCustomer *********")
+        self.logger.info("********* Test_002_AddCustomer *********")
         self.driver = setup
         self.driver.get(self.baseURL)
 
@@ -59,7 +59,7 @@ class Test_003_AddCustomer:
             self.driver.close()
 
         self.driver.close()
-        self.logger.info("*********** Ending Test_003_AddCustomer Test ***********")
+        self.logger.info("*********** Ending Test_002_AddCustomer Test ***********")
 
 def random_generator(size=8, chars=string.ascii_lowercase + string.digits):
     return ''.join(random.choice(chars) for x in range(size))
